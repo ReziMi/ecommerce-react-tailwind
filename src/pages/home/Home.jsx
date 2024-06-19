@@ -4,6 +4,7 @@ import Category from './Category'
 import Products from './Products'
 import Collections from './Collections'
 import BestSeller from './BestSeller'
+import SingleProduct from './SingleProduct'
 
 const Home = () => {
   return (
